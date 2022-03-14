@@ -1,7 +1,3 @@
-# I hereby certify that this program is solely the result of my own work and is
-# in compliance with the Academic Integrity policy of the course syllabus and
-# the academic integrity policy of the CS department.
-
 import random
 import pytest
 import BitHash
